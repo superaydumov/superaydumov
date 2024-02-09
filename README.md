@@ -1,4 +1,4 @@
-<h1 align="left">Hello there, my name is Eldar</h1>
+<h1 align="left">Hello there!👋🏻 My name is Eldar.</h1>
 <h3 align="left">I'm an iOS developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaydumov&label=Profile%20views&color=0e75b6&style=flat" alt="superaydumov" /> </p>
