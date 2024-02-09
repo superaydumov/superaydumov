@@ -3,7 +3,6 @@
 I've been working as design engineer in oil&gas industry for 8 years. Have patents on inventions, which are related to diifferent tools and systems.
 Creating something new have always been something crucial for me and escpecially for the the things I do. Thats why apps development became part of my life. And the will to become stronger in this grows with every line of code, written function or completed project.
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaydumov&label=Profile%20views&color=0e75b6&style=flat" alt="superaydumov" /> </p>
 
 <h3 align="left">Connect with me:</h3>
