@@ -1,7 +1,8 @@
-<h1 align="center">Hello there, my name is Eldar</h1>
-<h3 align="center">I'm an iOS developer!</h3>
+<h1 align="left">Hello there, my name is Eldar</h1>
+<h3 align="left">I'm an iOS developer!</h3>
 
 <h3 align="left">Connect with me:</h3>
+https://t.me/eldarino_O
 <p align="left">
 </p>
 
