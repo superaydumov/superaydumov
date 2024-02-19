@@ -1,6 +1,6 @@
 <h1 align="left">Hello there!👋🏻 My name is Eldar.</h1>
 <h3 align="left">I'm an iOS developer!</h3>
-I've been working as design engineer in oil&gas industry for 8 years. Have patents on inventions, which are related to diifferent tools and systems.
+I've been working as design engineer in oil&gas industry for 8 years. Have patents on inventions, which are related to different tools and systems.
 Creating something new have always been something crucial for me and escpecially for the the things I do. Thats why apps development became part of my life. And the will to become stronger in this grows with every line of code, written function or completed project.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaydumov&label=Profile%20views&color=0e75b6&style=flat" alt="superaydumov" /> </p>
